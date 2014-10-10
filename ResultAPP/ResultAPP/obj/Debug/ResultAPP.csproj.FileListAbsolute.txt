@@ -1,0 +1,9 @@
+F:\PRACTICS\ResultAPP\ResultAPP\bin\Debug\ResultAPP.exe.config
+F:\PRACTICS\ResultAPP\ResultAPP\bin\Debug\ResultAPP.exe
+F:\PRACTICS\ResultAPP\ResultAPP\bin\Debug\ResultAPP.pdb
+F:\PRACTICS\ResultAPP\ResultAPP\obj\Debug\ResultAPP.csprojResolveAssemblyReference.cache
+F:\PRACTICS\ResultAPP\ResultAPP\obj\Debug\ResultAPP.ResultUI.resources
+F:\PRACTICS\ResultAPP\ResultAPP\obj\Debug\ResultAPP.Properties.Resources.resources
+F:\PRACTICS\ResultAPP\ResultAPP\obj\Debug\ResultAPP.csproj.GenerateResource.Cache
+F:\PRACTICS\ResultAPP\ResultAPP\obj\Debug\ResultAPP.exe
+F:\PRACTICS\ResultAPP\ResultAPP\obj\Debug\ResultAPP.pdb
